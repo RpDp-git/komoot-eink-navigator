@@ -1,7 +1,7 @@
 # komoot-eink-navigator
 Bluetooth Low Energy companion display for Komoot app
 
-Hardware : Lolin ESP32 eink dev board
+Hardware : Lolin ESP32 eink dev board and a 3d printed case
 
 How to use the device :
 
