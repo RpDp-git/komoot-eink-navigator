@@ -14,5 +14,5 @@ How to pair device :
 5. Reset the board and wait on the screen and the device will automatically pair 
 6. Go back and start the navigation under plan and the display will start updating !
 
-![alt text](https://github.com/RpDp-git/komoot-eink-navigator/blob/master/case.jpeg)
+![alt text](image.jpg)
 ![alt text](https://github.com/RpDp-git/komoot-eink-navigator/blob/master/sampledisplay.jpeg)
